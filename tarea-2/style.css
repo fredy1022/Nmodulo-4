@@ -1,0 +1,26 @@
+.card1{
+   
+    border: 2px solid red;
+    border-radius: 5px;
+    flex: justify-content center;
+    margin-left: 600px;
+    width: 280px
+
+   }
+
+h1{
+    color: blue;
+    margin-left: 650px;
+    border-radius: 10px;
+    flex: justify-content center;}
+
+button{
+    margin-left: 600px; 
+    width: 284px
+   
+     
+}
+   
+
+
+   
